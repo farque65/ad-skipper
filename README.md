@@ -1,8 +1,8 @@
-# Ad Skipper Chrome Extension
+# Skipper Chrome Extension
 
 ## Overview
 
-**Ad Skipper** is a Chrome extension designed to enhance your browsing experience by automatically clicking the "Skip Ad" button on supported websites. This extension helps you avoid interruptions from advertisements, allowing you to enjoy your content seamlessly.
+**Skipper** is a Chrome extension designed to enhance your browsing experience by automatically clicking the "Skip Ad" button on supported websites. This extension helps you avoid interruptions from advertisements, allowing you to enjoy your content seamlessly.
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## Purpose
 
-The primary purpose of the Ad Skipper extension is to improve user experience by reducing the time spent waiting for ads to finish playing. This extension is especially useful for frequent users of video streaming websites where ads are common.
+The primary purpose of the Skipper extension is to improve user experience by reducing the time spent waiting for ads to finish playing. This extension is especially useful for frequent users of video streaming websites where ads are common.
 
 ## How to Use
 
@@ -29,10 +29,10 @@ The primary purpose of the Ad Skipper extension is to improve user experience by
 
 ## Contribution
 
-We welcome contributions to extend the functionality of the Ad Skipper extension. If you'd like to add support for more websites, please follow the steps below:
+We welcome contributions to extend the functionality of the Skipper extension. If you'd like to add support for more websites, please follow the steps below:
 
 1. **Fork the Repository**:
-   - Fork the Ad Skipper repository on GitHub.
+   - Fork the Skipper repository on GitHub.
 
 2. **Clone the Repository**:
    - Clone your forked repository to your local machine.
@@ -53,7 +53,7 @@ We welcome contributions to extend the functionality of the Ad Skipper extension
 
 5. **Submit a Pull Request**:
    - Push your changes to your forked repository.
-   - Open a pull request to the main Ad Skipper repository with a description of your changes.
+   - Open a pull request to the main Skipper repository with a description of your changes.
 
 6. **Review and Merge**:
    - The maintainers will review your pull request. Once approved, your changes will be merged into the main repository.
@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Thank you for contributing to Ad Skipper! Together, we can improve the browsing experience for everyone.
+Thank you for contributing to Skipper! Together, we can improve the browsing experience for everyone.
