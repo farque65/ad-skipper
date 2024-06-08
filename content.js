@@ -2,7 +2,7 @@
 const selectors = {
     'youtube.com': '.ytp-skip-ad-button',
     // Add more websites and their skip button selectors here
-    'example.com': '.example-skip-ad-button'
+    'netflix.com': '.default-ltr-cache'
   };
   
   function getSelectorForCurrentSite() {
